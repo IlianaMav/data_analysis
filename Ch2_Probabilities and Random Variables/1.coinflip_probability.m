@@ -9,9 +9,6 @@
 % of 'tails' to n trials. Make the corresponding graphical representation 
 % of the ratio for different n.
 
-
-
-
 clear
 
 % Create an array of the of values for the sample size as powers of 2

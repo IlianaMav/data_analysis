@@ -1,2 +1,2 @@
-# data_analysis
-MATLAB scripts writen for the subject 'Data Analysis' in MSc Computational Physics
+# Data_analysis
+MATLAB scripts written for the subject 'Data Analysis' in MSc Computational Physics

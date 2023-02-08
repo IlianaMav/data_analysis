@@ -1,3 +1,17 @@
+% coinflip_probability
+% Confirm the definition of probability as the limit of relative frequency 
+% as the number of trials approaches infinity. Simulate the flip of a coin 
+% n times using a random number generator, either from a uniform discrete 
+% distribution (for 'heads' and 'tails'), or from a uniform continuous 
+% distribution in the interval [0, 1] using a threshold of 0.5 
+% (e.g. a number less than 0.5 is 'heads' and greater is 'tails'). 
+% Repeat the experiment for increasing n and calculate each time the ratio
+% of 'tails' to n trials. Make the corresponding graphical representation 
+% of the ratio for different n.
+
+
+
+
 clear
 
 % Create an array of the of values for the sample size as powers of 2

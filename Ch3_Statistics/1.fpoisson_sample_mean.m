@@ -1,5 +1,6 @@
 % Use of fpoisson function to generate M samples of size n and create the 
-% histogram of sample mean
+% histogram of sample mean. Check for different values of lamda if the
+% center of sample mean equals value of lamda.
 
 clear
 

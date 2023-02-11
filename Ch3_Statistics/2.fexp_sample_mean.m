@@ -1,5 +1,7 @@
 % Use of fexp function to generate M samples of size n and create the 
-% histogram of sample mean
+% histogram of sample mean. Check for different values of tau if the
+% center of sample mean equals value of tau.
+
 clear
 
 M=1000; %number of samples
